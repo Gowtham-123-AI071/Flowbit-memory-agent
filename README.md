@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # Flowbit Memory Agent – Learned Memory Layer
 
 ---
