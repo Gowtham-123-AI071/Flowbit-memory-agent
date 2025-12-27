@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flowbit Memory Agent – Learned Memory Layer
 
 ---
@@ -83,3 +84,7 @@ This prevents bad learnings from dominating future decisions.
 ### Install Dependencies
 ```bash
 npm install
+=======
+# Flowbit-memory-agent
+#Memory-driven invoice automation system that learns from human corrections and vendor behavior to improve decisions over time using persistent storage and transparent rule-based logic.
+>>>>>>> 4b344b8c00b66391eafcfd5940442dab6122f68d
