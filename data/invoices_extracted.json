@@ -1,0 +1,36 @@
+[
+  {
+    "invoiceId": "INV-A-001",
+    "vendor": "Supplier GmbH",
+    "fields": {
+      "invoiceNumber": "A-001",
+      "invoiceDate": "2024-01-10",
+      "serviceDate": null,
+      "currency": null,
+      "netTotal": 1000,
+      "taxRate": 0.19,
+      "taxTotal": 190,
+      "grossTotal": 1190,
+      "lineItems": []
+    },
+    "rawText": "Leistungsdatum: 10.01.2024",
+    "confidence": 0.6
+  },
+  {
+    "invoiceId": "INV-A-002",
+    "vendor": "Supplier GmbH",
+    "fields": {
+      "invoiceNumber": "A-002",
+      "invoiceDate": "2024-01-15",
+      "serviceDate": null,
+      "currency": null,
+      "netTotal": 1500,
+      "taxRate": 0.19,
+      "taxTotal": 285,
+      "grossTotal": 1785,
+      "lineItems": []
+    },
+    "rawText": "Leistungsdatum: 15.01.2024",
+    "confidence": 0.85
+  }
+]

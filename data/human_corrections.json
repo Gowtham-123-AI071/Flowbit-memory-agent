@@ -1,0 +1,15 @@
+[
+  {
+    "invoiceId": "INV-A-001",
+    "vendor": "Supplier GmbH",
+    "finalDecision": "APPROVED",
+    "corrections": [
+      {
+        "field": "serviceDate",
+        "oldValue": null,
+        "newValue": "2024-01-10",
+        "reason": "Leistungsdatum indicates service date"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "flowbit-memory-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+  "build": "tsc",
+  "start": "node src/index.js",
+  "demo": "npm run build && node src/scripts/demo.js"
+},
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
